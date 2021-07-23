@@ -1,0 +1,29 @@
+{
+  "name": "currency-cli-nodejs",
+  "version": "1.0.0",
+  "description": "Currency listing with nodejs.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couldntcatchthebus/currency-cli-nodejs.git"
+  },
+  "keywords": [
+    "cli",
+    "nodedjs",
+    "currency",
+    "btc",
+    "usd",
+    "tl",
+    "eur",
+    "eth"
+  ],
+  "author": "couldntcatchthebus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/couldntcatchthebus/currency-cli-nodejs/issues"
+  },
+  "homepage": "https://github.com/couldntcatchthebus/currency-cli-nodejs#readme"
+}
